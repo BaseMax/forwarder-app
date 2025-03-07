@@ -65,6 +65,15 @@ The application requires a `config.json` file to define the ports and routes. He
 }
 ```
 
+Run and test:
+
+```bash
+$ forwarder-app
+2025/03/07 18:04:07 Starting server on port 9524
+2025/03/07 18:04:07 Starting server on port 9005
+2025/03/07 18:04:07 Starting server on port 9004
+```
+
 ### Configuration Details:
 - `ports`: List of ports the server will listen on.
 - `port`: Port number for the server.
