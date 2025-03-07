@@ -1,0 +1,4 @@
+forwarder-app
+*.exe
+*.o
+*.bin
